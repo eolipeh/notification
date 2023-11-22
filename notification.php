@@ -1,5 +1,5 @@
 <?php
-    const HOST = "mysql.xmxcloud.net:3306";
+    const HOST = "mysql.xmxcloud.net";
     const USER = "u1070_Qeh4pgt2Ic";
     const PASSWORD = "u+6COSxZiNjFPqMK^9.HTOK7";
     const DB = "s1070_novaera";
